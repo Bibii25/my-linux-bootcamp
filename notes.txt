@@ -5,5 +5,17 @@
 Text file - Writing notes
 Shell file - Running basic scripts
 
+- Used "chmod +x" - To change the mode of the file and add execute permissions
+Learned other permissions:
+r = read
+w = write
+x = execute
+
+- Used "./filename" - to indicate the current directory and filename for running an executable file
+or script.
+
+- Used "nano filename" - to look into files and edit
+
 Sample script:
+#!/bin/bash
 echo "Hello there, keep your head up!"
