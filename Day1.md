@@ -8,6 +8,12 @@
 - Learned 'pwd' command - Used to check current directory.
 - Learned 'cd' command - Used to change directory
 - Learned 'ls' command - Used to list files and directories
+- Learned 'touch' command - used to create file
+- Understood the difference between:
+git add - staging files
+git commit - making snapshot of changes
+git push - sending changes to the remote from local
+- Learned "mkdir" command - used to create directories
 
 Example commands:
 
