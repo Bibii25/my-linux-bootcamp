@@ -1,0 +1,9 @@
+# Day 1 Practice
+
+- Created a new directory using "mkdir" 
+- Created a text and shell file
+Text file - Writing notes
+Shell file - Running basic scripts
+
+Sample script:
+echo "Hello there, keep your head up!"
