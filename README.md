@@ -34,3 +34,11 @@ Welcome to my personal Linux Bootcamp! 👩‍💻 This repository is structured
 ### Day 6-7: Recap and Final Project
 
 * Putting together all learned commands in a mini-project
+
+## Getting Started
+
+Clone this repo:
+
+bash
+git clone https://github.com/<yourusername>/linux-bootcamp.git
+
